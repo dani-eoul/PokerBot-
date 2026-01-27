@@ -1,0 +1,89 @@
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+*.lai
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+PokerBot
+poker_solver
+main
+
+# Build directories
+build/
+cmake-build-*/
+out/
+bin/
+obj/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.xcodeproj/
+*.xcworkspace/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Prerequisites
+*.d
+
+# Generated files
+*.i
+*.s
+
+# Package managers
+conan.lock
+conanbuildinfo.*
+conaninfo.txt
+graph_info.json
+
+# Visual Studio
+.vs/
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.svclog
+*.scc
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.cache
